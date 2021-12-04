@@ -1,0 +1,19 @@
+{
+    "name": "bitfumes/contact",
+    "description": "This is testing composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Ng",
+            "email": "hengnam86@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bitfumesss\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
